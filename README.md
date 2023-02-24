@@ -1,5 +1,7 @@
 # opencv-colordetection
 
+pip install opencv-python numpy pandas
+
 git clone https://github.com/jzf21/opencv-colordetection.git
 
 py color_detection.py
